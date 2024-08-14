@@ -3,7 +3,7 @@
 
 <h2> Hola, soy Santino N. Casasco y algun día voy a ser el rey de los game developers.</h2>
 
-<p><img alt="Image" title="bigFoot" src="C:/Users/santi/OneDrive/Escritorio/mem/big foot.png" /></p>
+<p><img alt="Image" title="bigFoot" src="big foot.png" /></p>
 
 <p>
 Videojuegos fav:<ul>
